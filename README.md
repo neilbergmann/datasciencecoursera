@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-## For Coursera Data Science MOOC
+Used for Coursera Data Science MOOC
